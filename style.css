@@ -1,0 +1,918 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+
+
+.nav {
+    height: 80px;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+
+.nav img {
+    width: 190px;
+    padding: 25px 20px;
+    position: absolute;
+}
+
+.hom {
+    color: darksalmon;
+}
+
+
+span:hover {
+    color: darksalmon;
+}
+
+span {
+    margin-left: 70px;
+
+}
+
+
+
+
+.stom {
+    margin-left: 300px;
+    margin-top: 35px;
+    position: absolute;
+}
+
+
+.fud img {
+    margin-left: 950px;
+    position: absolute;
+    margin-top: -400px;
+    width: 250px;
+}
+
+
+
+h3 {
+    margin-top: 180px;
+    margin-left: 100px;
+    font-weight: 100;
+}
+
+
+h1 {
+    font-size: 50px;
+    margin: 20px 90px;
+}
+
+h2 {
+    font-weight: 400;
+    margin-left: 90px;
+}
+
+
+button {
+    width: 200px;
+    height: 50px;
+    margin: 50px 90px;
+    background: linear-gradient(to right, red 0%, blue 100%);
+    border: none;
+    color: white;
+}
+
+button:hover {
+    background: linear-gradient(to right, blue 0%, red 100%);
+}
+
+
+
+
+
+
+
+.on {
+    width: 150px;
+    height: 100px;
+    background-color: rgb(213, 255, 235);
+    margin-left: 150px;
+    margin-top: 170px;
+}
+
+.on div {
+    color: dodgerblue;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+
+.on h4 {
+    color: dodgerblue;
+    font-size: 15px;
+    text-align: center;
+    padding-left: -100px;
+}
+
+
+.tu {
+    width: 150px;
+    height: 100px;
+    background-color: rgb(213, 255, 235);
+    margin-left: 330px;
+    position: absolute;
+    margin-top: -100px;
+}
+
+.tu div {
+    color: dodgerblue;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+
+.tu h4 {
+    color: dodgerblue;
+    font-size: 15px;
+    text-align: center;
+    padding-left: -100px;
+}
+
+
+
+
+.sri {
+    width: 150px;
+    height: 100px;
+    background-color: rgb(213, 255, 235);
+    margin-left: 510px;
+    position: absolute;
+    margin-top: -100px;
+}
+
+.sri div {
+    color: dodgerblue;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+
+.sri h4 {
+    color: dodgerblue;
+    font-size: 15px;
+    text-align: center;
+    padding-left: -100px;
+}
+
+
+
+.past img {
+    width: 500px;
+    margin: 50px 80px;
+}
+
+
+
+.le {
+    width: 600px;
+    height: 500px;
+    border: 5px solid rgb(255, 255, 255);
+    margin-left: 650px;
+    margin-top: -500px;
+}
+
+
+
+.le h4 {
+    padding: 20px 90px;
+}
+
+
+.le h1 {
+    padding: -20px -720px;
+    font-size: 40px;
+}
+
+
+.le p {
+    width: 480px;
+    padding-left: 95px;
+    color: gray;
+}
+
+
+
+
+
+.le button {
+    width: 200px;
+    height: 50px;
+    margin: 50px 90px;
+    background: linear-gradient(to right, red 0%, blue 100%);
+    border: none;
+    color: white;
+    border-radius: 10px;
+    transition: 0.5s;
+    font-size: 20px;
+}
+
+.le button:hover {
+    background: linear-gradient(to right, blue 0%, red 100%);
+}
+
+
+
+.tred h5 {
+    margin: 50px 100px;
+    font-size: 20px;
+    color: gray;
+}
+
+.tred h1 {
+    font-size: 35px;
+    margin-top: -40px;
+}
+
+
+
+.fif {
+    width: 350px;
+    height: 450px;
+    margin-left: 100px;
+    background-color: rgb(234, 246, 242);
+}
+
+
+.fif img {
+    padding: 70px 135px;
+}
+
+.fif h2 {
+    margin-right: 80px;
+    margin-top: -50px;
+    display: flex;
+}
+
+
+.fif p {
+    text-align: center;
+    width: 300px;
+    padding-left: 30px;
+    color: gray;
+}
+
+
+
+.fif:hover {
+    transition: 1s;
+    background-color: rgb(0, 106, 255);
+    color: white;
+}
+
+
+
+.fif:hover p {
+    transition: 1s;
+    color: white;
+}
+
+.fif h3 {
+    margin-top: 50px;
+    padding-left: 20px;
+}
+
+
+
+
+.fif .bac {
+    width: 100px;
+    height: 5px;
+    background: linear-gradient(to right, red 0%, blue 100%);
+    border: none;
+    color: white;
+    transition: 0.5s;
+    margin-left: 120px;
+}
+
+
+
+.bac:hover {
+    transition: 1s;
+    display: inline-block;
+    background-color: white;
+}
+
+
+
+
+
+.se {
+    width: 350px;
+    height: 450px;
+    margin-left: 500px;
+    background-color: rgb(234, 246, 242);
+    margin-top: -450px;
+}
+
+
+.se img {
+    padding: 70px 135px;
+}
+
+
+
+
+.se h2 {
+    margin-right: 80px;
+    margin-top: -50px;
+    display: flex;
+}
+
+
+.se p {
+    text-align: center;
+    width: 300px;
+    padding-left: 30px;
+    color: gray;
+}
+
+
+
+
+
+.se h3 {
+    margin-top: 50px;
+    padding-left: 20px;
+}
+
+
+
+
+.se .bax {
+    width: 100px;
+    height: 5px;
+    background: linear-gradient(to right, red 0%, blue 100%);
+    border: none;
+    color: white;
+    transition: 0.5s;
+    margin-left: 120px;
+}
+
+
+
+.bax:hover {
+    transition: 1s;
+    display: inline-block;
+    background-color: white;
+}
+
+
+
+
+.se:hover {
+    transition: 1s;
+    background-color: rgb(0, 106, 255);
+    color: white;
+}
+
+
+
+.se:hover p {
+    transition: 1s;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ve {
+    width: 350px;
+    height: 450px;
+    margin-left: 900px;
+    background-color: rgb(234, 246, 242);
+    margin-top: -450px;
+}
+
+
+.ve img {
+    padding: 70px 135px;
+}
+
+
+
+
+.ve h2 {
+    margin-right: 80px;
+    margin-top: -50px;
+    display: flex;
+}
+
+
+.ve p {
+    text-align: center;
+    width: 300px;
+    padding-left: 30px;
+    color: gray;
+}
+
+
+
+
+
+.ve h3 {
+    margin-top: 50px;
+    padding-left: 20px;
+}
+
+
+
+
+.ve .bal {
+    width: 100px;
+    height: 5px;
+    background: linear-gradient(to right, red 0%, blue 100%);
+    border: none;
+    color: white;
+    transition: 0.5s;
+    margin-left: 120px;
+}
+
+
+
+.bal:hover {
+    transition: 1s;
+    display: inline-block;
+    background-color: white;
+}
+
+
+
+
+.ve:hover {
+    transition: 1s;
+    background-color: rgb(0, 106, 255);
+    color: white;
+}
+
+
+
+.ve:hover p {
+    transition: 1s;
+    color: white;
+}
+
+
+
+
+.hon h1 {
+    font-size: 35px;
+}
+
+
+
+
+.bar img {
+    width: 300px;
+    margin: 100px 150px;
+
+}
+
+
+
+.var {
+    width: 500px;
+    height: 500px;
+    border: 5px solid rgb(255, 255, 255);
+    margin-left: 600px;
+    margin-top: -450px;
+}
+
+
+.var h2 {
+    margin-top: 30px;
+}
+
+
+
+
+.var h4 {
+    font-weight: 200;
+    padding: 20px 90px;
+}
+
+
+
+.var p {
+    font-size: 20px;
+    color: gray;
+    margin-left: 89px;
+}
+
+
+
+.var .rid i {
+    font-size: 23px;
+    color: yellow;
+}
+
+
+.var .rid {
+    margin: 20px 90px;
+}
+
+
+
+.diq {
+    color: blue;
+}
+
+
+
+
+.od img {
+
+    margin: 20px 50px;
+}
+
+
+.ez {
+    margin-left: 550px;
+    margin-top: -734px;
+}
+
+
+.rot {
+    margin-left: 550px;
+    margin-top: 20px;
+
+}
+
+
+.ni {
+    margin-left: 860px;
+    margin-top: -314px;
+    position: absolute;
+}
+
+
+.jon img {
+    width: 450px;
+    margin-left: 50px;
+    margin-top: 30px;
+    position: absolute;
+}
+
+
+
+.oxri img {
+    width: 600px;
+    height: 278px;
+    margin-left: 530px;
+    margin-top: 30px;
+}
+
+
+
+.boz {
+    margin: 20px 90px;
+}
+
+
+.boz i {
+    color: dodgerblue;
+    font-size: 25px;
+}
+
+
+.boz i:hover {
+    transform: rotate(150deg);
+    transform: rotate(400deg);
+
+    transition: all 2s;
+}
+
+
+
+.ton {
+    width: 350px;
+    height: 600px;
+    border: 3px solid rgb(255, 255, 255);
+    margin-left: 100px;
+    background-color: rgb(239, 245, 249);
+    overflow: hidden;
+transition: 0.5s;
+
+}
+
+
+
+
+.ton:hover img{
+transform: scale(1.1);
+transition: 0.5s;
+}
+
+.ton img {
+    width: 344px;
+}
+
+
+.not {
+    padding: 10px 30px;
+}
+
+
+.vid {
+    padding: 10px 20px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+
+.ton p {
+    padding: 10px 20px;
+}
+
+
+
+
+
+.ton .more {
+    width: 100px;
+    height: 5px;
+    background: linear-gradient(to right, red 0%, blue 100%);
+    border: none;
+    color: white;
+    transition: 0.5s;
+    margin-left: 20px;
+}
+
+
+.ton .ler {
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+
+
+.ton:hover {
+    background-color: white;
+    box-shadow: 1px 5px 15px 5px gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blum {
+    width: 350px;
+    height: 600px;
+    border: 3px solid rgb(255, 255, 255);
+    margin-left: 480px;
+    background-color: rgb(239, 245, 249);
+    margin-top: -600px;
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+.blum:hover img{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.blum img {
+    width: 344px;
+}
+
+
+.lb {
+    padding: 10px 30px;
+}
+
+
+.every {
+    padding: 10px 20px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+
+.blum p {
+    padding: 10px 20px;
+}
+
+
+
+
+
+.blum .mor {
+    width: 100px;
+    height: 5px;
+    background: linear-gradient(to right, red 0%, blue 100%);
+    border: none;
+    color: white;
+    margin-left: 20px;
+}
+
+
+.blum .lr {
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+
+
+.blum:hover {
+    background-color: white;
+    box-shadow: 1px 5px 15px 5px gray;
+}
+
+
+
+
+.blum .mish{
+    padding: 10px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hp {
+    width: 350px;
+    height: 600px;
+    border: 3px solid rgb(255, 255, 255);
+    margin-left: 860px;
+    background-color: rgb(239, 245, 249);
+    margin-top: -600px;
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+.hp:hover img{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.hp img {
+    width: 344px;
+}
+
+
+.mi{
+    padding: 10px 30px;
+}
+
+
+.ever {
+    padding: 10px 20px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+
+.hp p {
+    padding: 10px 20px;
+}
+
+
+
+
+
+.hp .mori {
+    width: 100px;
+    height: 5px;
+    background: linear-gradient(to right, red 0%, blue 100%);
+    border: none;
+    color: white;
+    margin-left: 20px;
+}
+
+
+.hp .lri {
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+
+
+.hp:hover {
+    background-color: white;
+    box-shadow: 1px 5px 15px 5px gray;
+}
+
+
+
+
+.hp .mi{
+    padding: 10px 20px;
+}
+
+
+
+.pomo img{
+    margin-left: 600px;
+    margin-top: 50px;
+    color: white;
+}
+
+
+.pomo {
+width: 1600px;
+height: 210px;
+    background-size:100% 100%;
+    background: url(./download\ \(2\).svg) no-repeat;
+}
+
+
+.col {
+    color: white;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+
+.icon i{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: white;
+    font-size: 25px;
+    padding: 13px 12px;
+    color: rgb(0, 89, 255);
+}
+
+
+.icon i:hover{
+    background: linear-gradient(to right, red 0%, blue 100%);
+    color: white;
+transition:  0.5s;
+}
+
+.icon {
+    padding: 20px 570px;
+}
+
+
+
+
+
+@media (max-width: 770px) {
+    
+    body {
+        background-color: rgb(255, 255, 255);
+    }
+
+    .on{
+        width: 100%;
+        display: block;
+    }
+}
